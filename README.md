@@ -1,5 +1,7 @@
 Projeto desenvolvido durante o curso de desenvolvimento de software na Trybe. O objetivo era receber uma pokédex ja pronta e testar cada um dos componentes utilizando RTL.
 
+Data de entrega: 22/07/2021
+
 # Habilidades
 
 * Utilizar os seletores (queries) da React-Testing-Library em testes automatizados.
